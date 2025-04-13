@@ -1,68 +1,73 @@
-<div id="container">
-  <div id="headerArea">
-      <div id="header"></div>
-  <div id="flex">
-      <aside id="leftSidebar">
-          <h2>Hi there!</h2>
-          <div class="box">
-               <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93914014_EI9VTSbt30R0Yjt.gif">
-                <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93913382_uxzRnJWQm6x9AtS.gif?1736846141">
-               <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93913396_eAbizdDLgISkqUz.gif?1736405553">
-           </div>
-          <h2>Navigation</h2>
-          <ul>
-      <li><a href="https://skydragonarts.neocities.org/">Home</a></li>
-      <li><a href="https://skydragonarts.neocities.org/">Home</a></li>
-      <li><a href="https://skydragonarts.neocities.org/GK1">Gerona Kingdom</a></li>
-      <li><a href="https://ko-fi.com/s/122dd85102">Twiggle Pets</a></li>
-      <li><a href="https://ko-fi.com/skydragonarts/shop">Shop</a></li>
-      <li><a href="#">About me</a></li>
-      <li><a href="#">Card page</a></li>
-    </ul>
-      </aside>
-  <main>
-    <title>Gerona Kingdom</title>
-    <h1>Gerona Kingdom Chapters</h1>
-    <center>
-   <p>Gerona Kingdom is a country with massive territory that spans across a large portion of the earth and in which that many cultures formed, people living their lives and strange mysteries in the shadows for the citizens to discover and solve!</p>
 
-<p>Many characters inhabit the wonderous and magical land of Gerona, each with their own story to tell. Each book is it's stand-alone story so you can pick a character that appeals to you the most and jump in there.
-If you would like to see the characters of Gerona, click here!</p>
+<html>
 
-    <p>If you would like to help support the series, purchase <a href="https://ko-fi.com/s/cdcf15d085">a physical copy</a> from my online shop! It'll mean a lot to me. =) </p>
-    <h1>Chapter list</h1>
-<h1 class="heading">Chapter 1 Rhode #1</h1>  
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+</head>
 
-<div class="rows">
-    <div class="columns">
-    <a href="https://skydragonarts.neocities.org/GK1"><img src="https://skydragonarts.neocities.org/Front%20cover.jpg" width=150></a>
+<body cz-shortcut-listen="true">
+    <div id="container">
+        <div id="headerArea">
+            <div id="header"></div>
+            <div id="flex">
+                <aside id="leftSidebar">
+                    <h2>Hi there!</h2>
+                    <div class="box">
+                        <img src="Gerona%20Kingdom_files/93914014_EI9VTSbt30R0Yjt.gif">
+                        <img src="Gerona%20Kingdom_files/93913382_uxzRnJWQm6x9AtS.gif">
+                        <img src="Gerona%20Kingdom_files/93913396_eAbizdDLgISkqUz.gif">
+                    </div>
+                    <h2>Navigation</h2>
+                    <ul>
+                        <li><a href="https://skydragonarts.neocities.org/">Home</a></li>
+                        <li><a href="https://skydragonarts.neocities.org/GK1">Gerona Kingdom</a></li>
+                        <li><a href="https://ko-fi.com/s/122dd85102">Twiggle Pets</a></li>
+                        <li><a href="https://ko-fi.com/skydragonarts/shop">Shop</a></li>
+                        <li><a href="#">About me</a></li>
+                        <li><a href="#">Card page</a></li>
+                    </ul>
+                </aside>
+                <main>
+                    <title>Gerona Kingdom</title>
+                    <h1>Gerona Kingdom Chapters</h1>
+					<p>Gerona Kingdom is a country with massive territory that spans across a large portion of the earth and in which that many cultures formed, people living their lives and strange mysteries in the shadows for the citizens to discover and solve!</p>
+
+					<p>Many characters inhabit the wonderous and magical land of Gerona, each with their own story to tell. Each book is it's stand-alone story so you can pick a character that appeals to you the most and jump in there. If you would like to see the characters of Gerona, click here!</p>
+
+					<p>If you would like to help support the series, purchase <a href="https://ko-fi.com/s/cdcf15d085">a physical copy</a> from my online shop! It'll mean a lot to me. =) </p>
+					<h1>Chapter list</h1>
+					<h1 class="heading">Chapter 1 Rhode #1</h1>
+					<div class="rows">
+						<div class="columns">
+							<a href="https://skydragonarts.neocities.org/GK1"><img src="Gerona%20Kingdom_files/Front%20cover.jpg" width="150"></a>
+						</div>
+						<div class="columns">
+							<p class="heading">The very first book ever to be published in the series.
+								<br>Rhode, Owler and Foxoly go to the fancy neighbourhood of Foresthampton to explore and gather inspiration for a comedy routine but Rhode finds their lifestyles incompatible with his wallet!
+							</p>
+							<p>21 black and white pages in Manga format.</p>
+							<br><a href="https://skydragonarts.neocities.org/GK1">Read online</a> or purchase the <a href="https://ko-fi.com/s/cdcf15d085">physical book.</a>
+						</div>
+					</div>
+					<h1 class="heading">Chapter 2 Rustler #1</h1>
+					<div class="rows">
+						<div class="columns">
+							<img src="Gerona%20Kingdom_files/front-cover-rustler-1.jpg" width="150">
+						</div>
+						<div class="columns">
+							<p class="heading">After the concert in a rural town, Rustler heads up the hills to take a gander at the view it has to offer though the wildlife has trouble in store for him!
+							</p>
+							<p>24 black and white pages in Manga format.</p>
+							<p>Read online or purchase the <a href="https://ko-fi.com/s/9f410c8c79">physical book.</a></p>
+						</div>
+					</div>
+                </main>
+            </div>
+        </div>
     </div>
-<div class="rows">
-    <div class="columns">
-        <p class="heading">The very first book ever to be published in the series.
-<br>Rhode, Owler and Foxoly go to the fancy neighbourhood of Foresthampton to explore and gather inspiration for a comedy routine but Rhode finds their lifestyles incompatible with his wallet!
-<p>21 black and white pages in Manga format.</p>
-<br><a href="https://skydragonarts.neocities.org/GK1">Read online</a> or purchase the <a href="https://ko-fi.com/s/cdcf15d085">physical book.</a>
-
-<h1 class="heading">Chapter 2 Rustler #1</h1>  
-
-<div class="rows">
-    <div class="columns">
-    <img src="https://skydragonarts.co.uk/wp-content/uploads/2024/11/front-cover-rustler-1.jpg" width=150>
+    <footer id="footer">Sky Dragon Arts (c) 2018-2025</footer>
+    <link rel="stylesheet" href="Gerona%20Kingdom_files/style.css">
     </div>
-<div class="rows">
-    <div class="columns">
-        <p class="heading">After the concert in a rural town, Rustler heads up the hills to take a gander at the view it has to offer though the wildlife has trouble in store for him!
-<p>24 black and white pages in Manga format.</p>
-        <p>Read online or purchase the <a href="https://ko-fi.com/s/9f410c8c79">physical book.</a></p>
-<h1 class="heading">Chapter 3 Eagle Beagle #1</h1> 
-        <div class="rows">
-    <div class="columns">
-        <p class="heading">After the concert in a rural town, Rustler heads up the hills to take a gander at the view it has to offer though the wildlife has trouble in store for him!
-<p>24 black and white pages in Manga format.</p>
-        <p>Read online or purchase the <a href="https://ko-fi.com/s/9f410c8c79">physical book.</a></p>
-</main>
+</body>
 
-</div>
-<footer id="footer">Sky Dragon Arts (c) 2018-2025</footer>
-  <link rel="stylesheet" href="style.css" />
+</html>
