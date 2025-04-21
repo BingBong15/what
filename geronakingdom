@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="style.css" />
 <html>
 
 <head>
@@ -11,63 +11,114 @@
             <div id="header"></div>
             <div id="flex">
                 <aside id="leftSidebar">
+    <div id="templaterr-sidebar">
+		<script type="text/javascript" src="sidebar.js"></script>
+	</div>
                     <h2>Hi there!</h2>
                     <div class="box">
-                        <img src="Gerona%20Kingdom_files/93914014_EI9VTSbt30R0Yjt.gif">
-                        <img src="Gerona%20Kingdom_files/93913382_uxzRnJWQm6x9AtS.gif">
-                        <img src="Gerona%20Kingdom_files/93913396_eAbizdDLgISkqUz.gif">
+                        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93914014_EI9VTSbt30R0Yjt.gif">
+                        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93913382_uxzRnJWQm6x9AtS.gif?1736846141">
+                        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/93913396_eAbizdDLgISkqUz.gif?1736405553">
                     </div>
                     <h2>Navigation</h2>
-                    <ul>
-                        <li><a href="https://skydragonarts.neocities.org/">Home</a></li>
-                        <li><a href="https://skydragonarts.neocities.org/GK1">Gerona Kingdom</a></li>
-                        <li><a href="https://ko-fi.com/s/122dd85102">Twiggle Pets</a></li>
-                        <li><a href="https://ko-fi.com/skydragonarts/shop">Shop</a></li>
-                        <li><a href="#">About me</a></li>
-                        <li><a href="#">Card page</a></li>
-                    </ul>
+                    <map name="noaimini0">
+<area href="https://baccyflap.com/noai" target="_blank" shape="rect" coords="16,2,71,28" alt="no ai webring" title="no ai webring">
+<area href="https://baccyflap.com/noai/?prv&s=sda" target="_top" shape="rect" coords="2,9,13,21" alt="previous" title="previous">
+<area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="79,22,85,28" alt="random" title="random">
+<area href="https://baccyflap.com/noai/?nxt&s=sda" target="_top" shape="rect" coords="74,9,85,21" alt="next" title="next">
+</map>
+<img usemap="#noaimini0" src="https://baccyflap.com/noai/miniwidget0.gif" alt="an image of a little blue toy robot in a red circle. there's a red line running through the robot. around it are the words NO AI / WEBRING and two arrows, one pointing left, one right, and a little icon with two crossed arrows">
                 </aside>
-                <main>
-                    <title>Gerona Kingdom</title>
-                    <h1>Gerona Kingdom Chapters</h1>
-					<p>Gerona Kingdom is a country with massive territory that spans across a large portion of the earth and in which that many cultures formed, people living their lives and strange mysteries in the shadows for the citizens to discover and solve!</p>
-
-					<p>Many characters inhabit the wonderous and magical land of Gerona, each with their own story to tell. Each book is it's stand-alone story so you can pick a character that appeals to you the most and jump in there. If you would like to see the characters of Gerona, click here!</p>
-
-					<p>If you would like to help support the series, purchase <a href="https://ko-fi.com/s/cdcf15d085">a physical copy</a> from my online shop! It'll mean a lot to me. =) </p>
-					<h1>Chapter list</h1>
-					<h1 class="heading">Chapter 1 Rhode #1</h1>
-					<div class="rows">
-						<div class="columns">
-							<a href="https://skydragonarts.neocities.org/GK1"><img src="Gerona%20Kingdom_files/Front%20cover.jpg" width="150"></a>
-						</div>
-						<div class="columns">
-							<p class="heading">The very first book ever to be published in the series.
-								<br>Rhode, Owler and Foxoly go to the fancy neighbourhood of Foresthampton to explore and gather inspiration for a comedy routine but Rhode finds their lifestyles incompatible with his wallet!
-							</p>
-							<p>21 black and white pages in Manga format.</p>
-							<br><a href="https://skydragonarts.neocities.org/GK1">Read online</a> or purchase the <a href="https://ko-fi.com/s/cdcf15d085">physical book.</a>
-						</div>
-					</div>
-					<h1 class="heading">Chapter 2 Rustler #1</h1>
-					<div class="rows">
-						<div class="columns">
-							<img src="Gerona%20Kingdom_files/front-cover-rustler-1.jpg" width="150">
-						</div>
-						<div class="columns">
-							<p class="heading">After the concert in a rural town, Rustler heads up the hills to take a gander at the view it has to offer though the wildlife has trouble in store for him!
-							</p>
-							<p>24 black and white pages in Manga format.</p>
-							<p>Read online or purchase the <a href="https://ko-fi.com/s/9f410c8c79">physical book.</a></p>
-						</div>
-					</div>
-                </main>
-            </div>
+<main>
+    <title>Gerona Kingdom</title>
+<h1>Gerona Kingdom Chapters</h1>
+<p>Gerona Kingdom is a country with massive territory that spans across a large portion of the earth and in which that many cultures formed, people living their lives and strange mysteries in the shadows for the citizens to discover and solve!</p>
+<p>Many characters inhabit the wonderous and magical land of Gerona, each with their own story to tell. Each book is it's stand-alone story so you can pick a character that appeals to you the most and jump in there. If you would like to see the characters of Gerona, click here!</p>
+<p>If you would like to help support the series, purchase <a href="https://ko-fi.com/s/cdcf15d085">a physical copy</a> from my online shop! It'll mean a lot to me. =) </p>
+<h1>Chapter list</h1>
+<!--Gerona Kingdom 1-->
+<h1 class="heading">Chapter 1 Rhode #1</h1>
+    <div class="rows">
+        <div class="columns">
+        <a href="https://skydragonarts.neocities.org/GK1"><img src="https://skydragonarts.neocities.org/Front%20cover.jpg" width="150"></a>
+    </div>
+    <div class="columns">
+        <p class="heading">The very first book ever to be published in the series.
+        <br>Rhode, Owler and Foxoly go to the fancy neighbourhood of Foresthampton to explore and gather inspiration for a comedy routine but Rhode finds their lifestyles incompatible with his wallet!
+        </p>
+        <p>21 black and white pages in Manga format.</p>
+        <br><a href="https://skydragonarts.neocities.org/GK1">Read online</a> or purchase the <a href="https://ko-fi.com/s/cdcf15d085">physical book.</a>
+    </div>
+</div>
+<!--Gerona Kingdom 2-->
+<h1 class="heading">Chapter 2 Rustler #1</h1>
+    <div class="rows">
+        <div class="columns">
+        <a href="https://skydragonarts.neocities.org/GK2"><img src="https://skydragonarts.co.uk/wp-content/uploads/2024/11/front-cover-rustler-1.jpg" width="150"></a>
         </div>
+    <div class="columns">
+        <p class="heading">After the concert in a rural town, Rustler heads up the hills to take a gander at the view it has to offer though the wildlife has trouble in store for him!
+        </p>
+        <p>25 black and white pages in Manga format.</p>
+        <p><a href="https://skydragonarts.neocities.org/GK2">Read online</a> or purchase the <a href="https://ko-fi.com/s/9f410c8c79">physical book.</a></p>
     </div>
+</div>
+<!--Gerona Kingdom 3-->
+<h1 class="heading">Chapter 3 Eagle Beagle #1</h1>
+<div class="rows">
+    <div class="columns">
+        <a href="https://skydragonarts.neocities.org/GK3"><img src="https://skydragonarts.co.uk/wp-content/uploads/2024/11/front-cover-eagle-beagle-1.jpg" width="150"></a>
+    </div>
+<div class="columns">
+	<p class="heading">Eagle Beagle doesn't manage the kids on his own very often so he's not sure what to do when they run amok! One more kid joins in but brings trouble!
+	</p>
+	<p>21 black and white pages in Manga format.</p>
+	<p><a href="https://skydragonarts.neocities.org/GK3">Read online</a> or purchase the <a href="https://ko-fi.com/s/08a58fb7e7">physical book.</a></p>
+	</div>
+</div>
+<!--Gerona Kingdom 3-->
+<h1 class="heading">Chapter 4 Paul #1</h1>
+<div class="rows">
+    <div class="columns">
+        <a href="https://skydragonarts.neocities.org/GK4"><img src="https://skydragonarts.co.uk/wp-content/uploads/2024/11/front-cover-04.jpg" width="150"></a>
+    </div>
+<div class="columns">
+	<p class="heading">Paul's simple errands become a massive chore as he makes last-minute preparations for his inventory off the mountain cliff.
+	</p>
+	<p>21 black and white pages in Manga format.</p>
+	<p><a href="https://skydragonarts.neocities.org/GK4">Read online</a> or purchase the <a href="https://ko-fi.com/s/cf96bd1b97">physical book.</a></p>
+	</div>
+</div>
+<!--Gerona Kingdom 5-->
+<h1 class="heading">Chapter 5 Lee #1</h1>
+<div class="rows">
+    <div class="columns">
+        <a href="https://skydragonarts.neocities.org/GK5"><img src="https://skydragonarts.co.uk/wp-content/uploads/2025/01/front-cover.jpg" width="150"></a>
+    </div>
+<div class="columns">
+	<p class="heading">Lee makes friends with her neighbour: Kate until Fiona comes along and tries to keep Kate from being friends with an outsider.
+	</p>
+	<p>17 black and white pages in Manga format.</p>
+	<p><a href="https://skydragonarts.neocities.org/GK5">Read online</a> or help support the site with a purchase of a <a href="https://ko-fi.com/s/93c1aa60f7">physical books.</a></p>
+	</div>
+</div>
+<!--Rhode's Newspaper Comics-->
+<h1 class="heading">Rhode's Newspaper Comics</h1>
+<div class="rows">
+    <div class="columns">
+        <a href="https://skydragonarts.neocities.org/rnc"><img src="https://skydragonarts.co.uk/wp-content/uploads/2024/11/cbb22-thumbnail.webp" width="150"></a>
+    </div>
+<div class="columns">
+	<p class="heading">Get a kick to your post-awakening routine with a hearty serving of laughter with these mini strips!
+	</p>
+	<p>Colour strips in Manga format.</p>
+    <p><a href="https://skydragonarts.neocities.org/rnc">Read online</a> now!</p>
+	</div>
+</div>
+</main>
+</div>
     <footer id="footer">Sky Dragon Arts (c) 2018-2025</footer>
-    <link rel="stylesheet" href="Gerona%20Kingdom_files/style.css">
-    </div>
+</div>
 </body>
 
 </html>
